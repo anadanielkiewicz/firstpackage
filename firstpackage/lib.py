@@ -1,2 +1,2 @@
 def try_me():
-    return "Hello Vinny"
+    return "Hello Le Wagon friends :) "
